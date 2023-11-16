@@ -2,7 +2,7 @@
 
 **App that you would need to build**:
 
-You have to write a Node.js based app that is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation
+Node.js based app that is able to respond to emails sent to  Gmail mailbox while I am  out on a vacation.
 
 The app  check for new emails in a given Gmail ID.
 The app  send replies to Emails that have no prior replies
